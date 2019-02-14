@@ -1,0 +1,55 @@
+body {background-color: azure;
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 100%;
+}
+
+h1 {
+    color: azure;
+    background-color: black;
+    margin: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+h2{
+    font-size: 20px;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+  
+}
+
+}
+
+a{
+    color: darkblue;
+
+}
+
+#Main-Bio,
+#Contact-info,
+#Bio-Image{
+    float: left;
+}
+
+#Main-Bio{
+    width: 70%;
+}
+
+#Contact-info{
+    width: 30%;
+}
+
+#Bio-Image{
+    margin-right: 20px;
+    width: 200px;
+    height: 200px;
+}
